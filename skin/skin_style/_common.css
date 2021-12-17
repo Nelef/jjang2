@@ -1,0 +1,428 @@
+*{padding:0;margin:0;font-size:12px;color:#000;font-family: 'Noto_R';}
+img {border:0;margin:0;padding:0;}
+@import url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
+
+@font-face {
+	font-family: 'YMJ_B';
+    src: url('../skin_style/fonts/YoonMyungjoB.eot');
+    src: url('../skin_style/fonts/YoonMyungjoB.eot?#iefix') format('embedded-opentype'),
+         url('../skin_style/fonts/YoonMyungjoB.woff2') format('woff2'),
+         url('../skin_style/fonts/YoonMyungjoB.woff') format('woff'),
+         url('../skin_style/fonts/YoonMyungjoB.ttf') format('truetype'),
+         url('../skin_style/fonts/YoonMyungjoB.svg#notokr-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'YMJ_L';
+    src: url('../skin_style/fonts/YoonMyungjoL.eot');
+    src: url('../skin_style/fonts/YoonMyungjoL.eot?#iefix') format('embedded-opentype'),
+         url('../skin_style/fonts/YoonMyungjoL.woff2') format('woff2'),
+         url('../skin_style/fonts/YoonMyungjoL.woff') format('woff'),
+         url('../skin_style/fonts/YoonMyungjoL.ttf') format('truetype'),
+         url('../skin_style/fonts/YoonMyungjoL.svg#notokr-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'YMJ_M';
+    src: url('../skin_style/fonts/YoonMyungjoM.eot');
+    src: url('../skin_style/fonts/YoonMyungjoM.eot?#iefix') format('embedded-opentype'),
+         url('../skin_style/fonts/YoonMyungjoM.woff2') format('woff2'),
+         url('../skin_style/fonts/YoonMyungjoM.woff') format('woff'),
+         url('../skin_style/fonts/YoonMyungjoM.ttf') format('truetype'),
+         url('../skin_style/fonts/YoonMyungjoM.svg#notokr-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: "Agarapro-R";
+	src: url('../skin_style/fonts/AGaramondPro-Regular.otf');
+	src: url('../skin_style/fonts/AGaramondPro-Regular.eot?#iefix') format('embedded-opentype'),
+			 url('../skin_style/fonts/AGaramondPro-Regular.svg#notokr-regular') format('svg');
+}
+
+@font-face {
+	font-family: 'FStd_H';
+	src: url('fonts/FuturaStd-Bold.odft');
+	src: url('../skin_style/fonts/FuturaStd-Bold.svg#notokr-regular') format('svg');
+}
+
+@font-face {
+	font-family: 'FStd_BO';
+	src: url('fonts/FuturaStd-BoldOblique.odft');
+	src: url('../skin_style/fonts/FuturaStd-BoldOblique.eot?#iefix') format('embedded-opentype'),
+			 url('../skin_style/fonts/FuturaStd-BoldOblique.svg#notokr-regular') format('svg');
+}
+
+@font-face {
+	font-family: 'YGO_320';
+    src: url('fonts/YDIYGO320.eot');
+    src: url('fonts/YDIYGO320-1.eot') format('embedded-opentype'),
+         url('fonts/YDIYGO320.txt') format('woff2'),
+         url('fonts/YDIYGO320-1.txt') format('woff'),
+         url('fonts/YDIYGO320-2.txt') format('truetype'),
+         url('fonts/YDIYGO320.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'YGO_340';
+    src: url('fonts/YDIYGO340.eot');
+    src: url('fonts/YDIYGO340-1.eot') format('embedded-opentype'),
+         url('fonts/YDIYGO340.txt') format('woff2'),
+         url('fonts/YDIYGO340-1.txt') format('woff'),
+         url('fonts/YDIYGO340-2.txt') format('truetype'),
+         url('fonts/YDIYGO340.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'YGO_350';
+    src: url('fonts/YDIYGO350.eot');
+    src: url('fonts/YDIYGO350-1.eot') format('embedded-opentype'),
+         url('fonts/YDIYGO350.txt') format('woff2'),
+         url('fonts/YDIYGO350-1.txt') format('woff'),
+         url('fonts/YDIYGO350-2.txt') format('truetype'),
+         url('fonts/YDIYGO350.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham_B';
+    src: url('fonts/GothamBold.eot');
+    src: url('fonts/GothamBold-1.eot') format('embedded-opentype'),
+         url('fonts/GothamBold.txt') format('woff2'),
+         url('fonts/GothamBold-1.txt') format('woff'),
+         url('fonts/GothamBold-2.txt') format('truetype'),
+         url('fonts/GothamBold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Tahoma_B';
+    src: url('fonts/Tahoma-Bold.eot');
+    src: url('fonts/Tahoma-Bold-1.eot') format('embedded-opentype'),
+         url('fonts/Tahoma-Bold.txt') format('woff2'),
+         url('fonts/Tahoma-Bold-1.txt') format('woff'),
+         url('fonts/Tahoma-Bold-2.txt') format('truetype'),
+         url('fonts/Tahoma-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Noto_R';
+    src: url('fonts/notokr-regular.eot');
+    src: url('fonts/notokr-regular-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-regular.txt') format('woff2'),
+         url('fonts/notokr-regular-1.txt') format('woff'),
+         url('fonts/notokr-regular-2.txt') format('truetype'),
+         url('fonts/notokr-regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Noto_M';
+    src: url('fonts/notokr-medium.eot');
+    src: url('fonts/notokr-medium-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-medium.txt') format('woff2'),
+         url('fonts/notokr-medium-1.txt') format('woff'),
+         url('fonts/notokr-medium-2.txt') format('truetype'),
+         url('fonts/notokr-medium.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Noto_L';
+    src: url('fonts/notokr-light.eot');
+    src: url('fonts/notokr-light-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-light.txt') format('woff2'),
+         url('fonts/notokr-light-1.txt') format('woff'),
+         url('fonts/notokr-light-2.txt') format('truetype'),
+         url('fonts/notokr-light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Noto_B';
+    src: url('fonts/notokr-bold.eot');
+    src: url('fonts/notokr-bold-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-bold.txt') format('woff2'),
+         url('fonts/notokr-bold-1.txt') format('woff'),
+         url('fonts/notokr-bold-2.txt') format('truetype'),
+         url('fonts/notokr-bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto_BL';
+    src: url('fonts/notokr-black.eot');
+    src: url('fonts/notokr-black-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-black.txt') format('woff2'),
+         url('fonts/notokr-black-1.txt') format('woff'),
+         url('fonts/notokr-black-2.txt') format('truetype'),
+         url('fonts/notokr-black.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto_D';
+    src: url('fonts/notokr-demilight.eot');
+    src: url('fonts/notokr-demilight-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-demilight.txt') format('woff2'),
+         url('fonts/notokr-demilight-1.txt') format('woff'),
+         url('fonts/notokr-demilight-2.txt') format('truetype'),
+         url('fonts/notokr-demilight.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Noto_T';
+    src: url('fonts/notokr-thin.eot');
+    src: url('fonts/notokr-thin-1.eot') format('embedded-opentype'),
+         url('fonts/notokr-thin.txt') format('woff2'),
+         url('fonts/notokr-thin-1.txt') format('woff'),
+         url('fonts/notokr-thin-2.txt') format('truetype'),
+         url('fonts/notokr-thin.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+	font-family: 'Tri_L';
+    src: url('fonts/TriplexSerif-Light.eot');
+    src: url('fonts/TriplexSerif-Light-1.eot') format('embedded-opentype'),
+         url('fonts/TriplexSerif-Light.txt') format('woff2'),
+         url('fonts/TriplexSerif-Light-1.txt') format('woff'),
+         url('fonts/TriplexSerif-Light-2.txt') format('truetype'),
+         url('fonts/TriplexSerif-Light.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Tra_B';
+    src: url('fonts/TraditionellSans-Bold.eot');
+    src: url('fonts/TraditionellSans-Bold-1.eot') format('embedded-opentype'),
+         url('fonts/TraditionellSans-Bold.txt') format('woff2'),
+         url('fonts/TraditionellSans-Bold-1.txt') format('woff'),
+         url('fonts/TraditionellSans-Bold-2.txt') format('truetype'),
+         url('fonts/TraditionellSans-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../skin_style/fonts/BebasNeue.eot?#iefix') format('embedded-opentype'),
+         url('fonts/BebasNeue.txt') format('woff2'),
+         url('fonts/BebasNeue-1.txt') format('woff'),
+         url('fonts/BebasNeue-2.txt') format('truetype'),
+         url('fonts/BebasNeue.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'sm-Regular';
+    src: url('../skin_style/fonts/sm-Regular.eot');
+    src: url('../skin_style/fonts/sm-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sm-Regular.txt') format('woff2'),
+         url('fonts/sm-Regular-1.txt') format('woff'),
+         url('fonts/sm-Regular-2.txt') format('truetype'),
+         url('fonts/sm-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SanJs';
+    src: url('fonts/SanJs.eot');
+    src: url('fonts/SanJs-1.eot') format('embedded-opentype'),
+         url('fonts/SanJs.txt') format('woff2'),
+         url('fonts/SanJs-1.txt') format('woff'),
+         url('fonts/SanJs-2.txt') format('truetype'),
+         url('fonts/SanJs.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ymg-130';
+    src: url('fonts/ymg-130.eot');
+    src: url('fonts/ymg-130-1.eot') format('embedded-opentype'),
+         url('fonts/ymg-130.txt') format('woff'),
+         url('fonts/ymg-130-1.txt') format('truetype'),
+         url('fonts/ymg-130.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: 'SMSEMyungJoStd-Regular-FD1';
+  src: url('fonts/SMSEMyungJoStd-Regular-FD1.txt') format('woff'),
+       url('fonts/SMSEMyungJoStd-Regular-FD1-1.txt') format('truetype'),
+       url('fonts/SMSEMyungJoStd-Regular-FD1.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SMSEMyungJoStd-Regular';
+  src: url('fonts/SMSEMyungJoStd-Regular.eot');
+  src: url('fonts/SMSEMyungJoStd-Regular.txt') format('woff2'),
+       url('fonts/SMSEMyungJoStd-Regular-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BauerBodoniStd-Roman';
+  src: url('fonts/BauerBodoniStd-Roman.eot');
+  src: url('fonts/BauerBodoniStd-Roman.txt') format('woff2'),
+       url('fonts/BauerBodoniStd-Roman-1.txt') format('woff'),
+       url('fonts/BauerBodoniStd-Roman-2.txt') format('truetype'),
+       url('fonts/BauerBodoniStd-Roman.svg') format('svg'),
+       url('fonts/BauerBodoniStd-Roman-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+
+@font-face {
+  font-family: 'DidotLTStd-Roman';
+  src: url('fonts/DidotLTStd-Roman.eot');
+  src: url('fonts/DidotLTStd-Roman.txt') format('woff2'),
+       url('fonts/DidotLTStd-Roman-1.txt') format('woff'),
+       url('fonts/DidotLTStd-Roman-2.txt') format('truetype'),
+       url('fonts/DidotLTStd-Roman.svg') format('svg'),
+       url('fonts/DidotLTStd-Roman-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TrajanPro-Regular';
+  src: url('fonts/TrajanPro-Regular.eot');
+  src: url('fonts/TrajanPro-Regular.txt') format('woff2'),
+       url('fonts/TrajanPro-Regular-1.txt') format('woff'),
+       url('fonts/TrajanPro-Regular-2.txt') format('truetype'),
+       url('fonts/TrajanPro-Regular.svg') format('svg'),
+       url('fonts/TrajanPro-Regular-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Semringah';
+  src: url('fonts/Semringah.eot');
+  src: url('fonts/Semringah.txt') format('woff2'),
+       url('fonts/Semringah-1.txt') format('woff'),
+       url('fonts/Semringah-2.txt') format('truetype'),
+       url('fonts/Semringah.svg') format('svg'),
+       url('fonts/Semringah-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'ShelleyLT-AllegroScript';
+  src: url('fonts/ShelleyLT-AllegroScript.txt') format('woff'),
+       url('fonts/ShelleyLT-AllegroScript-1.txt') format('truetype'),
+       url('fonts/ShelleyLT-AllegroScript.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Shelley_LT_Allegro_Script';
+  src: url('fonts/Shelley_LT_Allegro_Script.eot');
+  src: url('fonts/Shelley_LT_Allegro_Script.txt') format('woff2'),
+       url('fonts/Shelley_LT_Allegro_Script-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'UniversLT-ThinUltraCondensed';
+  src: url('fonts/UniversLT-ThinUltraCondensed.txt') format('woff'),
+       url('fonts/UniversLT-ThinUltraCondensed-1.txt') format('truetype'),
+       url('fonts/UniversLT-ThinUltraCondensed.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Univers_LT_39';
+  src: url('fonts/Univers_LT_39.eot');
+  src: url('fonts/Univers_LT_39.txt') format('woff2'),
+       url('fonts/Univers_LT_39-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DTLProkyonT';
+  src: url('fonts/DTLProkyonT.eot');
+  src: url('fonts/DTLProkyonT.txt') format('woff2'),
+       url('fonts/DTLProkyonT-1.txt') format('woff'),
+       url('fonts/DTLProkyonT-2.txt') format('truetype'),
+       url('fonts/DTLProkyonT.svg') format('svg'),
+       url('fonts/DTLProkyonT-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'plateletthinregular';
+    src: url('fonts/platethi-webfont.eot');
+    src: url('fonts/platethi-webfont-1.eot') format('embedded-opentype'),
+         url('fonts/platethi-webfont.txt') format('woff2'),
+         url('fonts/platethi-webfont-1.txt') format('woff'),
+         url('fonts/platethi-webfont-2.txt') format('truetype'),
+         url('fonts/platethi-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'Nexa Light';
+  src: url('fonts/Nexa Light.eot');
+  src: url('fonts/Nexa Light.txt') format('woff2'),
+       url('fonts/Nexa Light-1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NexaLight';
+  src: url('fonts/NexaLight.txt') format('woff'),
+       url('fonts/NexaLight-1.txt') format('truetype'),
+       url('fonts/NexaLight.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'YDIYMJO320';
+  src: url('fonts/YDIYMJO320.txt') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,812 @@
+Uri: http://m.bomtvcard.com/parent.php?1631693043555
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\parent.html
+Content Type: text/html
+
+Uri: http://m.bomtvcard.com/skin/p2/images/top_bg.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\top_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/p2/images/_address_bg.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\_address_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/p2/images/_text_bg.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\_text_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/skin_style/favicon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\favicon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/skin_style/_common.css
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\_common.css
+Content Type: text/css
+
+Uri: http://m.bomtvcard.com/skin/gallery_d.html?cu_code=1631693043555&is_gubun=D&from=parent
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\gallery_d.html
+Content Type: text/html
+
+Uri: http://m.bomtvcard.com/skin/skin_style/jquery-1.11.0.min2.js
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\jquery-1.11.0.min2.js
+Content Type: text/javascript
+
+Uri: http://m.bomtvcard.com/skin/p2/images/img_1.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\img_1.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/data/1631693043555/crop_PP_211217_233329_52938100iFcfw3.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\data\1631693043555\crop_PP_211217_233329_52938100iFcfw3.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/p2/images/img_3.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\img_3.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/line_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\line_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/_mam_phone_bg.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\_mam_phone_bg.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/mam_parent_info.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\mam_parent_info.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/father_kr.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\father_kr.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/phone_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\phone_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/msg_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\msg_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/mather_kr.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\mather_kr.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/_woman_phone_bg.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\_woman_phone_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/p4/images/woman_parent_info.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p4\images\woman_parent_info.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/img_4.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\img_4.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/_common/images/bankbg_p2.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\_common\images\bankbg_p2.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/img_5.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\img_5.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/img_6.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\img_6.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/tell_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\tell_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/navi_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\navi_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/bus_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\bus_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/subway_icon.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\subway_icon.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/skin_style/kakao.link.js
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\kakao.link.js
+Content Type: text/javascript
+
+Uri: http://m.bomtvcard.com/skin/wed137/images/send.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\wed137\images\send.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/wed137/images/kakao.png
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\wed137\images\kakao.png
+Content Type: image/png
+
+Uri: http://m.bomtvcard.com/skin/p2/images/bottom_logo.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\p2\images\bottom_logo.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/FuturaStd-Bold.otf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\FuturaStd-Bold.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/FuturaStd-BoldOblique.otf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\FuturaStd-BoldOblique.odft
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO320.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO320.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO340.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO340.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYGO350.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYGO350.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/GothamBold.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\GothamBold.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Tahoma-Bold.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Tahoma-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-regular.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-medium.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-medium.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-light.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-light.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-bold.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-bold.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-black.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-black.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-demilight.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-demilight.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/notokr-thin.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\notokr-thin.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TriplexSerif-Light.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TriplexSerif-Light.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TraditionellSans-Bold.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TraditionellSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BebasNeue.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BebasNeue.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BebasNeue.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BebasNeue-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BebasNeue.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BebasNeue-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BebasNeue.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BebasNeue.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/sm-Regular.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\sm-Regular.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/sm-Regular.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\sm-Regular-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/sm-Regular.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\sm-Regular-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/sm-Regular.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\sm-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SanJs.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SanJs.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ymg-130.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ymg-130.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ymg-130.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ymg-130-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ymg-130.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ymg-130.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ymg-130.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ymg-130-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ymg-130.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ymg-130.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular-FD1.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular-FD1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular-FD1.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular-FD1-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular-FD1.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular-FD1.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/SMSEMyungJoStd-Regular.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\SMSEMyungJoStd-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/BauerBodoniStd-Roman.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\BauerBodoniStd-Roman-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DidotLTStd-Roman.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DidotLTStd-Roman-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/TrajanPro-Regular.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\TrajanPro-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Semringah.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Semringah-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ShelleyLT-AllegroScript.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ShelleyLT-AllegroScript.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ShelleyLT-AllegroScript.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ShelleyLT-AllegroScript-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/ShelleyLT-AllegroScript.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\ShelleyLT-AllegroScript.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Shelley_LT_Allegro_Script.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Shelley_LT_Allegro_Script.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Shelley_LT_Allegro_Script.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Shelley_LT_Allegro_Script.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Shelley_LT_Allegro_Script.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Shelley_LT_Allegro_Script-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/UniversLT-ThinUltraCondensed.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\UniversLT-ThinUltraCondensed.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/UniversLT-ThinUltraCondensed.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\UniversLT-ThinUltraCondensed-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/UniversLT-ThinUltraCondensed.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\UniversLT-ThinUltraCondensed.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Univers_LT_39.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Univers_LT_39.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Univers_LT_39.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Univers_LT_39.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Univers_LT_39.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Univers_LT_39-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/DTLProkyonT.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\DTLProkyonT-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont-2.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/platethi-webfont.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\platethi-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Nexa Light.eot
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Nexa Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Nexa Light.woff2
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Nexa Light.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/Nexa Light.eot?
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\Nexa Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/NexaLight.woff
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\NexaLight.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/NexaLight.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\NexaLight-1.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/NexaLight.svg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\NexaLight.svg
+Content Type: image/svg+xml
+
+Uri: http://m.bomtvcard.com/skin/skin_style/fonts/YDIYMJO320.ttf
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\fonts\YDIYMJO320.txt
+Content Type: text/plain
+
+Uri: http://m.bomtvcard.com/skin/skin_style/jquery.mobile-1.0rc2.min.css
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\jquery.mobile-1.0rc2.min.css
+Content Type: text/css
+
+Uri: http://m.bomtvcard.com/skin/skin_style/jquery-1.6.4.min.js
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\jquery-1.6.4.min.js
+Content Type: text/javascript
+
+Uri: http://m.bomtvcard.com/skin/skin_style/jquery.mobile-1.0rc2.min.js
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\skin_style\jquery.mobile-1.0rc2.min.js
+Content Type: text/javascript
+
+Uri: http://m.bomtvcard.com/skin/dol001/images/img_tip.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\skin\dol001\images\img_tip.jpg
+Content Type: image/jpeg
+
+Uri: http://m.bomtvcard.com/data/1631693043555/watermark.jpg
+File Name: D:\바탕화면\누나 사이트\22\m.bomtvcard.com\data\1631693043555\watermark.jpg
+Content Type: image/jpeg
+
